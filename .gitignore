@@ -3,6 +3,9 @@
 *.out
 *.app
 
+# Compiled source files
+*.class
+
 # Catch2 folder
 OOP/catch2/
 
